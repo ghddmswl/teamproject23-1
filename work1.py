@@ -28,7 +28,7 @@ openai.api_key = "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"
 root = tk.Tk()
 root.title("OpenAI Chatbot")
 root.geometry("600x350")
-root.configure(bg="blue")
+root.configure(bg="pink")
 
 
 # 대화기록 창
